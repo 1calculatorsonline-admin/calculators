@@ -19,7 +19,7 @@ export class CustomTopNavComponent implements OnInit {
   }
 
   sidenavToggle() {
-    this.sideBar.toggle();
+    
   }
 
 }
